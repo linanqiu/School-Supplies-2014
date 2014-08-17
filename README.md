@@ -69,6 +69,9 @@
 - Music
 - Music Stand
 - Needle Nose Pliers 
+- Quarter-inch cables
+- Pedals
+- Pedal Board
 
 ##8. Room Stuff##
 - Alarm Clock
