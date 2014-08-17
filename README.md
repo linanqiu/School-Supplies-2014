@@ -25,7 +25,7 @@
 - Dryer sheets
 - Iron
 - Ironing Board
-- Lent Roller
+- Lint Roller
 - Paper Towels
 - Shout Cleaner
 - Softerner
@@ -36,22 +36,25 @@
 - Fall Shirts
 - Shoes
 - Shorts
+- Suit
 - Summer Shirts
 - Tshirts
 
 ##5. Cooking Stuff##
 - Cups
+- Fridge
 - Knifes
 - Plates
 - Pots/Pans
 - Utensils
 
 ##6. Desk Stuff##
-- Keyboard
-- Sound System
-- Laptop Stand
 - Desk Lamp
 - External Track Pad
+- Keyboard
+- Laptop Stand
+- Scanner Mouse
+- Sound System
 
 ##7. Music Stuff##
 - Bass 
