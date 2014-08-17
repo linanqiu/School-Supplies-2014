@@ -13,6 +13,7 @@
 - Gold Bond
 - Hair product
 - Razors
+- Scale
 - Shampoo
 - Shaving Cream
 - Shower caddy
@@ -33,9 +34,11 @@
 - Water Sprayer
 
 ##4. Clothing Stuff ##
+- Dress Shirts
 - Fall Shirts
 - Shoes
 - Shorts
+- Sneakers
 - Suit
 - Summer Shirts
 - Tshirts
@@ -51,6 +54,7 @@
 ##6. Desk Stuff##
 - Desk Lamp
 - External Track Pad
+= Headphones
 - Keyboard
 - Laptop Stand
 - Scanner Mouse
