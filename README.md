@@ -1,4 +1,9 @@
 #School Supply List#
+
+##0. Life Essentials##
+- Porn hard drive
+- Video camera
+
 ##1. Bed Stuff##
 - Cover
 - Foam pad
